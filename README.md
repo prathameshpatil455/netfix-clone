@@ -1,3 +1,12 @@
-NETFLIX CLONE
+# Netflix Clone
 
-I have created a Netflix clone with basic HTML and CSS properties! You can view it [here](https://prathameshpatil455.github.io/netfix-clone/).
+A Netflix clone built with HTML and CSS.
+
+[Click here to view live demo](https://prathameshpatil455.github.io/netfix-clone/)
+
+![Preview](./images/Preview.png)
+
+## Tech Stack
+
+- **HTML** - Structure and markup
+- **CSS** - Styling and layout
